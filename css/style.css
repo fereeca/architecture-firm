@@ -24,7 +24,7 @@ img:focus {
   margin-bottom: 40px;
   /* margin: 0 auto; */
   .bg-img {
-    background-image: url(assets/banner.avif);
+    background-image: url(../assets/banner.avif);
     height: 100vh;
     background-position: top;
     background-size: cover;
@@ -495,7 +495,7 @@ img:focus {
   background-color: rgba(196, 193, 193, 0.2);
 
   .why-us-img {
-    background-image: url(assets/why-us-3.jpeg);
+    background-image: url(../assets/why-us-3.jpeg);
     height: 100vh;
     background-position: top;
     background-size: cover;
